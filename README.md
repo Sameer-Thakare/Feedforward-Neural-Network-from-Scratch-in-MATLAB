@@ -1,4 +1,4 @@
-# Building a Feedforward Neural Network from Scratch using MATLAB
+# Feedforward Neural Network from Scratch using MATLAB
 
 ## Overview
 
