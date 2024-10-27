@@ -12,7 +12,6 @@ This project demonstrates how to implement a feedforward neural network from scr
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Example](#example)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -89,10 +88,6 @@ epochs = 1000;
 % Train the network
 train_network(data.X, data.y, input_size, hidden_size, output_size, learning_rate, epochs);
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## License
 
